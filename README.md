@@ -12,6 +12,14 @@ This sensor can be implemented for applications such as:
 ## How does it work?
 Click on [Video](https://www.youtube.com/shorts/FhNuJRRbq8E) to see how the project work.
 
+For this project you'll need:
+1. Arduino Uno Board
+2. IR Reciver
+3. IR Emittors x 4
+4. Buzzer
+5. LEDs (Green, Yellow, Red)
+6. 100 kohmi resistance, 330 ohms resistance x 3
+
 <p align="center">
   <img src="https://github.com/SamiIonesi/IR_Sensor/assets/150432462/11e5ee90-47ce-47b8-95f4-d75fd9073a95" width="600" height="450">
 </p>
